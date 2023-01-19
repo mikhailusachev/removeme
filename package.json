@@ -1,6 +1,7 @@
 {
-  "name": "no-name",
-  "license": "UNLICENSED",
+  "name": "angelica",
+  "license": "warum",
+  "issue": "new/whatamess",
   "dependencies": {
     "@polymer/iron-icon": "3.0.1",
     "@polymer/iron-iconset-svg": "3.0.1",
