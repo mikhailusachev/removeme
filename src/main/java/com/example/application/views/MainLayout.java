@@ -19,6 +19,9 @@ import com.vaadin.flow.theme.lumo.LumoUtility;
 /**
  * The main view is a top-level placeholder for other views.
  */
+
+// todo: https://vaadin.com/docs/v14/flow/advanced/tutorial-bootstrap/#pageconfigurator
+
 public class MainLayout extends AppLayout {
 
     private H2 viewTitle;
