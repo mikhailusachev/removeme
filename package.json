@@ -121,7 +121,8 @@
     "construct-style-sheets-polyfill": "3.1.0",
     "date-fns": "2.29.3",
     "lit": "2.4.1",
-    "proj4": "2.8.1"
+    "proj4": "2.8.1",
+    "i18next": "22.4.9",
   },
   "devDependencies": {
     "@rollup/plugin-replace": "3.1.0",
